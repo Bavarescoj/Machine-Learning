@@ -4,6 +4,8 @@ function [J grad] = NeuralNetwork(nn_params, ...
                                    num_labels, ...
                                    X, y, lambda)
                                    
+
+%For Machine Learning class
 %Implements the neural network cost function for a two layer
 %neural network which performs classification
 
